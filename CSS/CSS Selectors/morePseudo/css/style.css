@@ -1,0 +1,4 @@
+li:nth-child(-n+3) {
+  background: green;
+  color: white;
+}

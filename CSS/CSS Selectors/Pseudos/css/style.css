@@ -1,0 +1,14 @@
+li:first-child {
+  background: green;
+  color: white;
+}
+li:last-child {
+  border-bottom: none;
+}
+span:only-child {
+  color: green;
+  font-size: 1.5em;
+}
+li:empty {
+  background-color: tomato;
+}
